@@ -1,0 +1,5 @@
+{
+  "$type": "https://schema.yext.cloud/config/platform/account-features",
+  "enabled": [],
+  "disabled": []
+}
