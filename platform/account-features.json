@@ -1,8 +1,5 @@
 {
   "$type": "https://schema.yext.com/config/platform/account-features",
-  "enabled": [
-    "Summer \u002719 Release: Rebranded Navigation (early access)",
-    "Summer \u002719: Partner Scan Improvements"
-  ],
+  "enabled": [],
   "disabled": []
 }
