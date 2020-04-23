@@ -1,0 +1,5 @@
+{
+  "$id": "job",
+  "$schema": "https://schema.yext.com/config/km/built-in-entity-type/v1",
+  "enabled": false
+}
